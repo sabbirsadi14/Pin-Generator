@@ -1,0 +1,54 @@
+.main {
+  width: 1200px;
+  min-height: 1000px;
+  background-color: rgba(0,0,60,0.5);
+  position: relative;
+}
+.box1 {
+  width: 500px;
+  height: 800px;
+  background-color: rgba(0,0,60,0.7);
+  float: left;
+  margin: 100px 50px;
+  border-radius: 30px;
+}
+input {
+  font-size: 40px;
+  margin: 50px 75px;
+  width: 350px;
+  height: 75px;
+  border-radius: 10px;
+  background-color: darkslateblue;
+}
+.generate {
+  margin: 150px 125px;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  font-size: 200%;
+  color: white;
+  background-color: royalblue;
+  outline:5px solid darkslateblue;
+}
+.keypad {
+  margin: 0px auto;
+  width: 280px;
+  height: 440px;
+}
+.num-pad {
+  background-color:slategray;
+  color:white;
+  width: 80px;
+  height: 100px;
+  font-size: 30px;
+  border-radius: 20px;
+  margin: 5px;
+}
+.submit {
+  margin: 30px 50px;
+  width: 400px;
+  height: 60px;
+  color: white;
+  background-color: royalblue;
+  font-size: 150%;
+}
