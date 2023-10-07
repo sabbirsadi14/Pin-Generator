@@ -28,7 +28,7 @@ input {
   font-size: 200%;
   color: white;
   background-color: royalblue;
-  outline:5px solid darkslateblue;
+  outline:5px solid red;
 }
 .keypad {
   margin: 0px auto;
